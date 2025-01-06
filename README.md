@@ -1,2 +1,2 @@
-# Projek-Uas
-Tugas untuk Uas
+# Projek Uas
+tugas UAS aplikasi TODO App
